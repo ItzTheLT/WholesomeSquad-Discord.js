@@ -1,0 +1,37 @@
+{
+    "avatar": {
+        "type": "Image",
+        "description": "Get user's avatar with PNG, JPG, WEBP or GIF format.",
+        "argument": "avatar [@user]"
+    },
+    "cuddle": {
+        "type": "Fun",
+        "description": "Cuddle someone or cuddle me",
+        "argument": "cuddle [@user]"
+    },
+    "help": {
+        "type": "Utility",
+        "description": "Bot's commands list",
+        "argument": "help [command]"
+    },
+    "hug": {
+        "type": "Fun",
+        "description": "Hug someone or hug me",
+        "argument": "hug [@user]"
+    },
+    "kiss": {
+        "type": "Fun",
+        "description": "Kiss someone or kiss me",
+        "argument": "kiss [@user]"
+    },
+    "pat": {
+        "type": "Fun",
+        "description": "Pat someone or pat me",
+        "argument": "pat [@user]"
+    },
+    "slap": {
+        "type": "Fun",
+        "description": "Slap someone or... slap me?",
+        "argument": "slap [@user]"
+    }
+}

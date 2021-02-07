@@ -1,0 +1,18 @@
+const cmd_info = require("../lib/commands_info.json");
+module.exports.config = {
+	name: "command",
+	aliases: ["command","aliases"],
+    type: "command type",
+    argument: cmd_info.command.argument,              // Don't forget to add command info into commands_info.json
+    description: cmd_info.command.description,        // file or the command will not work properly
+}
+
+const Discord = require("discord.js");
+const config = require("../config.json");
+const prefix = config.prefix;
+
+module.exports.run = async (client, message, args) => {
+    // Command executor
+}
+
+// Don't forget to rename the file from ...js.example to ...js only after you have done your command!
