@@ -1,9 +1,7 @@
-# WholesomeSquad-Discord.js
-Discord.js bot for Wholesome Squad page
+# Upcoming Project
+Discord.js bot
 ## Introduction
-This is a Discord.js bot that I make customarily for <a href="https://www.facebook.com/thewholesomesquad">Wholesome Squad</a> Discord Server.
-Thanks to them for inspiring me develop this bot :D.
-This bot is open source so you can clone it and edit it as you want. I'd appreciate if you credit me :)
+Upcoming project :)
 ## Installation
 1. Clone this project
 ```bash
