@@ -1,4 +1,4 @@
-# Upcoming Project
+# Project moved! https://github.com/WeebsLife
 Discord.js bot
 ## Introduction
 Upcoming project :)
